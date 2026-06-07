@@ -1,0 +1,4 @@
+mediapipe>=0.10.11
+opencv-contrib-python>=4.9.0.80
+pygame-ce>=2.5.0
+pynput>=1.7.6
